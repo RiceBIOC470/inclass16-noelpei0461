@@ -1,4 +1,10 @@
 % Inclass16
+%Gb comments
+1 100 be careful when redefining your “peak” variable. It can get messy once you lose the first peak definition. 
+2 100
+3 75 This should really be looped for all possible matching cells between timeframes
+overall 92
+
 
 %The folder in this repository contains code implementing a Tracking
 %algorithm to match cells (or anything else) between successive frames. 
